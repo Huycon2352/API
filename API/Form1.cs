@@ -9,7 +9,7 @@ namespace API
 {
     public partial class Form1 : Form
     {
-        private const string ApiKey = "316e0aa1776a56af4f5afe660450f25e"; // Thay thế bằng API key của bạn
+        private const string ApiKey = ""; // Thay thế bằng API key của bạn
         private const string BaseUrl = "https://api.openweathermap.org/data/2.5/weather";
 
         public Form1()
